@@ -35,13 +35,13 @@ The units for the input parameters are as follows:
 - `GOM_NN_Eqn3_application.m` – codes for neural network application with Eqn3 inputs;
 - `GOM_NN_Eqn4_application.m` – codes for neural network application with Eqn4 inputs;
 
-**Code was developed using**
-: MATLAB v.R2023b
-: MATLAB Deep Learning Toolbox
+**Code was developed using**<br>
+: MATLAB v.R2023b<br>
+: MATLAB Deep Learning Toolbox<br>
 
- **POCs**
-  Yuanyuan Xu yyx@udel.edu
-  Madison Soden madison.soden@noaa.gov
+ **POCs**<br>
+  Yuanyuan Xu yyx@udel.edu<br>
+  Madison Soden madison.soden@noaa.gov<br>
    
 
 
