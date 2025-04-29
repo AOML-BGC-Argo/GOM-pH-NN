@@ -1,6 +1,7 @@
 ## Gulf open ocean pH Neural Network 
 This is a collection of NN algorithms trained using CTD and bottle data from NOAA’s Gulf of Mexico and East Coast Carbon Cruise (GOMECC) cruises to estimate pH values in the Gulf.
 
+Please refer to this manuscript for more information
 https://doi.org/10.3389/fmars.2024.1468909
 
 **Description**
