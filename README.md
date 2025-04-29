@@ -1,5 +1,7 @@
-## Gulf of Mexico open ocean pH Neural Network 
-This is a collection of NN algorithms trained using CTD and bottle data from NOAA’s Gulf of Mexico and East Coast Carbon Cruise (GOMECC) cruises to estimate pH values in the Gulf of Mexico.
+## Gulf open ocean pH Neural Network 
+This is a collection of NN algorithms trained using CTD and bottle data from NOAA’s Gulf of Mexico and East Coast Carbon Cruise (GOMECC) cruises to estimate pH values in the Gulf.
+
+https://doi.org/10.3389/fmars.2024.1468909
 
 **Description**
 The files in this package include training data for developing the neural networks; independent validation data for the validation of the neural networks; MATLAB scripts for neural network training and applications; and trained/saved neural networks ready for applications. Each category contains files for four equations containing various combinations of input predictors: 
@@ -40,8 +42,8 @@ The units for the input parameters are as follows:
 : MATLAB Deep Learning Toolbox<br>
 
  **POCs**<br>
-  Yuanyuan Xu yyx@udel.edu<br>
-  Madison Soden madison.soden@noaa.gov<br>
+  Yuanyuan Xu yyx at udel.edu<br>
+  Madison Soden madison.soden at noaa.gov<br>
    
 
 
